@@ -1,3 +1,5 @@
+![Turing Brake × AgentVeil × SWARM × OAK — Four layers. One vision.](https://github.com/genesis-ai-research-prime/.github/blob/main/profile/poster.jpg?raw=true)
+
 # Genesis AI Research Prime
 
 The root office of Genesis AI Research — keeper of the charter and the public licence register.
